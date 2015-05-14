@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APP Process Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="stop_button_label">Stop List</string>
+    <string name="running_button_label">Running List</string>
+    <string name="running_item_button_label">Kill</string>
+    <string name="stop_item_button_label">Remove</string>
+
+</resources>
